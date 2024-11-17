@@ -16,6 +16,9 @@
     <li><strong>Friendly and warm tone</strong>: Kanthi’s responses are designed to be supportive, empathetic, and encouraging.</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/952c2d78-7b79-4335-bd24-7690a3137518)
+
+
 <p>I hope you enjoy using Kanthi! It’s a simple yet powerful example of how AI can enhance human-computer interaction.</p>
 
 <h2>Installation & Setup</h2>
